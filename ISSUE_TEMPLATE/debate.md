@@ -16,9 +16,9 @@ _Coloque um caso que exemplifique onde isso seria útil._
 from odufrn_downloader import ODUFRNDownloader
 ufrn_data = ODUFRNDownloader()
 
-# Código do erro
+# Código exemplo
 
-# Output ideal
+# Output
 ```
 
 
