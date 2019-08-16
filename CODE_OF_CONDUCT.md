@@ -21,7 +21,7 @@ Exemplos de comportamentos inaceitáveis incluem:
 
 * O uso de linguagem ou imagem sexualizada, assim como comportamentos 
 assediadores
-* Comentários que insultam, denigrem ou atacam pessoal ou policamente
+* Comentários que insultam, denigrem ou atacam pessoal ou politicamente
 * Assédio público ou privado
 * Publicar informações privadas de terceiros sem permissão explícita
 * Outra conduta que pode ser razoavelmente considerada inapropriada
