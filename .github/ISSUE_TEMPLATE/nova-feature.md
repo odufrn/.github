@@ -13,6 +13,12 @@ _Descreva, de forma rápida e direta, como deve ser a nova funcionalidade (o que
 - **Depende da issue**: _Referência a(s) issue(s)_
   - **Status**: (Parcialmente/Totalmente)
 
+**Checklist**:
+- [ ] Implementar feature;
+- [ ] Adicionar testes;
+- [ ] Atualizar _docstring_;
+- [ ] Atualizar documentação.
+
 ## Para entender melhor
 _Explicação mais detalhada da funcionalidade._
 _Aqui você pode explicar qual a motivação para que esta tarefa seja realizada._
