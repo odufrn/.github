@@ -1,11 +1,3 @@
----
-name: Padrão
-about: Template padrão de pull request
-title: ''
-labels: ''
-assignees: ''
----
-
 # Pull Request
 _Descreva, brevemente, o que o seu pull request representa._
 
